@@ -3,13 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Data</title>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a href='https://karahodges.github.io/HodgesWebDesignChallenge/'>Latitude</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <li class="nav-item">
+                <a class="nav-link" href=tabledata.html>Data</a>
+              </li>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="comparison.html" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Comparison
+                  </a>
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" href="maxtemp.html">Max Temperature</a>
+                  <a class="dropdown-item" href="humidity.html">Humidity</a>
+                  <a class="dropdown-item" href="cloud.html">Cloudiness</a>
+                  <a class="dropdown-item" href="wind.html">Wind Speed</a>
+                  </div>
+                </li>
+            </ul>
+          </div>
+        </nav>
+        <h1>Data</h1><hr>
 </head>
 <body>
-    <head> 
-        <title>Data</title><hr>
         <p>The following table includes all of the data used for plotting during this project.</p>
-    </head>
     
     <div class="table-responsive-sm">
         <table class="table">
@@ -30,7 +52,6 @@
             
       </div>
       
-
 
 <table class="table table-bordered table-hover table-condensed">
     <thead><tr><th title="Field #1">City_ID</th>

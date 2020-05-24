@@ -1,3 +1,6 @@
+
+https://karahodges.github.io/HodgesWebDesignChallenge/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/karahodges/HodgesWebDesignChallenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -38,4 +41,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-https://karahodges.github.io/HodgesWebDesignChallenge/

@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    background-color: white;
+  }
+  .navbar-brand {
+    background-color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 8px;
+    margin-left: 7%;
+  }
+  .dropdown-item {
+    font-weight: bold; 
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
